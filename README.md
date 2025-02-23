@@ -12,4 +12,4 @@ Here are some facts about me:
 -  I wish to work around Jackson, MS after obtaining my Masters.
 
 Below is a photo of me and my sorority little! This photo was taken on Mississippi State Univeristy's 2024 Bid Day. 
-![alt text](images/image.jpg)
+![alt text](IMG_0654.JPEG)
